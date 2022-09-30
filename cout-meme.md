@@ -1,0 +1,3 @@
+Good luck debugging cout...
+
+(gdb) call ( (std::ostream) *(0xDEADBEEF)).good()
